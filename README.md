@@ -1,2 +1,0 @@
-# tofu
-Assignment 2
